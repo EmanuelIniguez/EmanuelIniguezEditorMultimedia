@@ -1,4 +1,4 @@
 Portfolio personal donde muestro todos mis proyectos 
 
-live : 
+live : https://ei-editormultimedia.netlify.app/
 
